@@ -1,0 +1,90 @@
+---
+title: "MTG Collection"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    vertical_layout: fill
+    source_code: embed
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(knitr)
+library(DT)
+library(rpivotTable)
+library(ggplot2)
+library(openintro)
+library(highcharter)
+library(dplyr)
+library(tidyverse)
+library(plotly)
+library(maps)
+
+
+```
+
+```{r}
+data <- read.csv("~/Documents/GitHub/mtg/data.csv")
+
+```
+
+
+
+
+```{r}
+
+dat <- iso3166
+
+
+editionCount <- data %>% group_by(Edition) %>%
+  dplyr::summarize(count = n()) %>%
+  arrange(desc(count))
+
+
+```
+
+
+
+Home
+==================
+
+Row
+------------------
+
+### Data Refreshed July 2021
+
+```{r}
+valueBox(paste('Marcin MTG Data'),
+color = '#063970')
+```
+
+
+Full Rating Table
+========================
+```{r}
+
+dataSummary <- data %>% select('Name','Edition','Count')
+
+
+
+datatable(dataSummary,
+          caption = 'Full Ratings Table',
+          rownames = T,
+          filter = 'top',
+          options= list(pageLength = 25))
+
+
+
+
+
+
+```
+
+
+
+
+
+
+
+
+
