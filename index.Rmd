@@ -19,6 +19,9 @@ library(dplyr)
 library(tidyverse)
 library(plotly)
 library(maps)
+library(httr)
+library(jsonlite)
+
 
 
 ```
@@ -26,6 +29,14 @@ library(maps)
 ```{r}
 data <- read.csv("~/Documents/GitHub/mtg/data.csv")
 
+collection <- data %>% select('Count','Name', 'Edition','Card.Number') %>%
+  mutate(Edition = replace(Edition, Edition == 'Secret Lair Drop Series', 'Secret Lair Drop'))
+
+collection <- setNames(collection, c('count','name','edition','cardNumber')) 
+
+Scryfall <- read.csv("~/Documents/GitHub/mtg/Scryfall.csv")
+Scryfall <- Scryfall %>% select('Name','Edition','Set','Card.Number','tcgplayer_id') 
+
 ```
 
 
@@ -33,16 +44,12 @@ data <- read.csv("~/Documents/GitHub/mtg/data.csv")
 
 ```{r}
 
-dat <- iso3166
+```
 
-
-editionCount <- data %>% group_by(Edition) %>%
-  dplyr::summarize(count = n()) %>%
-  arrange(desc(count))
+```{r}
 
 
 ```
-
 
 
 Home
@@ -51,31 +58,44 @@ Home
 Row
 ------------------
 
-### Data Refreshed July 2021
+### Data Refreshed August 11, 2021
 
 ```{r}
 valueBox(paste('Marcin MTG Data'),
 color = '#063970')
 ```
 
+### Count of Cards
 
-Full Rating Table
+```{r}
+
+valueBox(length(collection$name),
+         icon = 'fa-tree')
+
+```
+
+
+Full Collection Table
 ========================
 ```{r}
 
-dataSummary <- data %>% select('Name','Edition','Count')
+dataSummary <- data %>% select('Name','Edition','Card.Number','Count') %>%
+  mutate(Edition = replace(Edition, Edition == 'Secret Lair Drop Series', 'Secret Lair Drop')) 
 
+test <- as.numeric(dataSummary$Card.Number)
+
+dataSummary <- left_join(dataSummary, Scryfall, by = c('Edition','Name','Card.Number'))
+dataSummary <- setNames(dataSummary, c('Name','Set','Card Number','Count','TCGPlayer Id','Set Id'))
 
 
 datatable(dataSummary,
-          caption = 'Full Ratings Table',
+          caption = 'Full Collection Table',
           rownames = T,
           filter = 'top',
-          options= list(pageLength = 25))
+          options= list(pageLength = 100))
 
 
-
-
+write.csv(dataSummary,"~/Documents/GitHub/mtg/marcin-inventory.csv", row.names = TRUE)
 
 
 ```
