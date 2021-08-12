@@ -604,7 +604,7 @@
 "603","Gemstone Mine","Time Spiral","119",1,"tsp",14295
 "604","Pendelhaven","Time Spiral","120",2,"tsp",14306
 "605","Undead Warchief","Time Spiral","52",1,"tsp",14177
-"606","Pendelhaven","FNM Promos","96",1,NA,NA
+"606","Pendelhaven","Friday Night Magic 2008","5",1,"f08",38138
 "607","Vraska the Unseen","Duel Decks: Jace vs. Vraska","42",1,"ddm",72023
 "608","Sorin, Lord of Innistrad","Duel Decks: Sorin vs. Tibalt","1",1,"ddk",67794
 "609","Vampire Nighthawk","Duel Decks: Sorin vs. Tibalt","12",1,"ddk",67805
@@ -687,7 +687,7 @@
 "686","Survive the Night","Shadows over Innistrad","41",1,"soi",116228
 "687","Trail of Evidence","Shadows over Innistrad","93",1,"soi",115914
 "688","Uncaged Fury","Shadows over Innistrad","188",1,"soi",116477
-"689","Sylvan Scrying","FNM Promos","193",2,NA,NA
+"689","Sylvan Scrying","Friday Night Magic 2016","6",2,"f16",118778
 "690","Cabal Therapy","Eternal Masters","83",4,"ema",118439
 "691","Entomb","Eternal Masters","87",3,"ema",118430
 "692","Heritage Druid","Eternal Masters","171",2,"ema",118605
@@ -783,7 +783,7 @@
 "782","Make Mischief","Eldritch Moon","135",1,"emn",120511
 "783","Markov Crusader","Eldritch Moon","95",1,"emn",120512
 "784","Mercurial Geists","Eldritch Moon","186",1,"emn",120267
-"785","Midnight Scavengers","Eldritch Moon","96",1,NA,NA
+"785","Midnight Scavengers","Eldritch Moon","96a",1,"emn",119680
 "786","Mockery of Nature","Eldritch Moon","10",1,"emn",120514
 "787","Mournwillow","Eldritch Moon","187",1,"emn",120269
 "788","Murder","Eldritch Moon","97",1,"emn",120121
@@ -1622,7 +1622,7 @@
 "1621","Wizard's Retort","Dominaria","75",1,"dom",162243
 "1622","Woodland Cemetery","Dominaria","248",2,"dom",162123
 "1623","Yavimaya Sapherd","Dominaria","189",1,"dom",164718
-"1624","Cast Down","FNM Promos","216",1,NA,NA
+"1624","Cast Down","Dominaria Promos","81",1,"pdom",164092
 "1625","Faithless Looting","Commander Anthology Volume II","96",3,"cm2",166802
 "1626","Ferocious Zheng","Global Series: Jiang Yanggu and Mu Yanling","28",3,NA,NA
 "1627","Abnormal Endurance","Core Set 2019","85",2,"m19",168592
@@ -2041,8 +2041,8 @@
 "2040","Wishcoin Crab","Guilds of Ravnica","60",4,"grn",176879
 "2041","Wojek Bodyguard","Guilds of Ravnica","120",4,"grn",176687
 "2042","Worldsoul Colossus","Guilds of Ravnica","215",4,"grn",176844
-"2043","Darkblast","Guilds of Ravnica Guild Kits","51",1,NA,NA
-"2044","Stinkweed Imp","Guilds of Ravnica Guild Kits","53",1,NA,NA
+"2043","Darkblast","GRN Guild Kit","51",1,"gk1",177366
+"2044","Stinkweed Imp","GRN Guild Kit","53",1,"gk1",177357
 "2045","Akroan Crusader","Ultimate Masters","121",1,"uma",180927
 "2046","All Is Dust","Ultimate Masters","1",1,"uma",180778
 "2047","Archaeomancer","Ultimate Masters","45",1,"uma",180867
@@ -2347,18 +2347,18 @@
 "2346","Zhur-Taa Goblin","Ravnica Allegiance","215",2,"rna",183030
 "2347","Judith, the Scourge Diva","Prerelease Cards","1180",1,NA,NA
 "2348","Simic Ascendancy","Prerelease Cards","1189",1,NA,NA
-"2349","Jaya Ballard","Ravnica Allegiance Mythic Edition","4",1,NA,NA
-"2350","Sorin Markov","Ravnica Allegiance Mythic Edition","3",1,NA,NA
+"2349","Jaya Ballard","Mythic Edition","RA4",1,"med",183446
+"2350","Sorin Markov","Mythic Edition","RA3",1,"med",183445
 "2351","Lavinia, Azorius Renegade","Store Championship Promos","5",1,NA,NA
-"2352","Growth Spiral","FNM Promos","224",1,NA,NA
-"2353","Light Up the Stage","FNM Promos","225",1,NA,NA
-"2354","Island - Dimir (A01)","Ravnica Weekend Promos","A01",1,NA,NA
-"2355","Island - Izzet (A03)","Ravnica Weekend Promos","A03",1,NA,NA
-"2356","Mountain - Izzet (A04)","Ravnica Weekend Promos","A04",1,NA,NA
-"2357","Forest - Golgari (A06)","Ravnica Weekend Promos","A06",1,NA,NA
-"2358","Plains - Boros (A08)","Ravnica Weekend Promos","A08",1,NA,NA
-"2359","Plains - Boros (A08)","Ravnica Weekend Promos","A08",1,NA,NA
-"2360","Forest - Selesnya (A09)","Ravnica Weekend Promos","A09",1,NA,NA
+"2352","Growth Spiral","Ravnica Allegiance Promos","178",1,"prna",182124
+"2353","Light Up the Stage","Ravnica Allegiance Promos","107",1,"prna",182126
+"2354","Island - Dimir (A01)","GRN Ravnica Weekend","A01",1,"prwk",175224
+"2355","Island - Izzet (A03)","GRN Ravnica Weekend","A03",1,"prwk",175225
+"2356","Mountain - Izzet (A04)","GRN Ravnica Weekend","A04",1,"prwk",175227
+"2357","Forest - Golgari (A06)","GRN Ravnica Weekend","A06",1,"prwk",175222
+"2358","Plains - Boros (A08)","GRN Ravnica Weekend","A08",1,"prwk",175220
+"2359","Plains - Boros (A08)","GRN Ravnica Weekend","A08",1,"prwk",175220
+"2360","Forest - Selesnya (A09)","GRN Ravnica Weekend","A09",1,"prwk",175221
 "2361","Ahn-Crop Invader","War of the Spark","113",2,"war",187223
 "2362","Aid the Fallen","War of the Spark","76",2,"war",188304
 "2363","Ajani's Pridemate","War of the Spark","4",5,"war",187127
@@ -2564,7 +2564,7 @@
 "2563","War Screecher","War of the Spark","39",1,"war",188159
 "2564","Wardscale Crocodile","War of the Spark","183",1,"war",188166
 "2565","Casualties of War","Prerelease Cards","1211",1,NA,NA
-"2566","Paradise Druid","FNM Promos","228",4,NA,NA
+"2566","Paradise Druid","War of the Spark Promos","171",4,"pwar",187158
 "2567","Abominable Treefolk","Modern Horizons","194",1,"mh1",190753
 "2568","Amorphous Axe","Modern Horizons","219",1,"mh1",191737
 "2569","Answered Prayers","Modern Horizons","2",1,"mh1",191208
@@ -2760,10 +2760,10 @@
 "2759","Vivien, Arkbow Ranger","Core Set 2020","199",1,"m20",192698
 "2760","Yarok's Fenlurker","Core Set 2020","123",1,"m20",192529
 "2761","Temple of Mystery","Prerelease Cards","1365",1,NA,NA
-"2762","Island","Promo Pack: Core Set 2020","2",1,NA,NA
-"2763","Corpse Knight","Promo Pack: Core Set 2020","6",1,NA,NA
-"2764","Ajani, Strength of the Pride","Promo Pack: Core Set 2020","11",1,NA,NA
-"2765","Bishop of Wings","Promo Pack: Core Set 2020","12",1,NA,NA
+"2762","Island","M20 Promo Packs","2",1,"ppp1",193281
+"2763","Corpse Knight","Core Set 2020 Promos","206",1,"pm20",193779
+"2764","Ajani, Strength of the Pride","Core Set 2020 Promos","2p",1,"pm20",193460
+"2765","Bishop of Wings","Core Set 2020 Promos","8p",1,"pm20",193490
 "2766","Saheeli, Sublime Artificer","War of the Spark Japanese Planeswalkers","234",1,NA,NA
 "2767","Thespian's Stage","Commander 2019","282",2,"c19",196524
 "2768","All That Glitters","Throne of Eldraine","2",1,"eld",198548
@@ -3621,11 +3621,11 @@
 "3620","Faceless Haven (Extended Art)","Kaldheim","371",1,"khm",230281
 "3621","Valkyrie Harbinger","Kaldheim","374",1,"khm",229271
 "3622","Realmwalker","Buy-a-Box Promos","59",2,NA,NA
-"3623","Usher of the Fallen","Promo Pack: Kaldheim","1",1,NA,NA
-"3624","Strategic Planning","Promo Pack: Kaldheim","2",1,NA,NA
-"3625","Poison the Cup","Promo Pack: Kaldheim","3",1,NA,NA
-"3626","Frost Bite","Promo Pack: Kaldheim","4",1,NA,NA
-"3627","Masked Vandal","Promo Pack: Kaldheim","5",1,NA,NA
+"3623","Usher of the Fallen","Kaldheim","401",1,"khm",230931
+"3624","Strategic Planning","Kaldheim","402",1,"khm",230929
+"3625","Poison the Cup","Kaldheim","403",1,"khm",230925
+"3626","Frost Bite","Kaldheim","404",1,"khm",230139
+"3627","Masked Vandal","Kaldheim","405",1,"khm",230271
 "3628","Heartwood Storyteller","Time Spiral Remastered","209",4,"tsr",233965
 "3629","Tarmogoyf","Time Spiral Remastered","235",1,"tsr",233959
 "3630","Dryad Arbor","Time Spiral Remastered","277",1,"tsr",234111
