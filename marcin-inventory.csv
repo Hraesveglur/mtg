@@ -624,8 +624,8 @@
 "623","Beast Within","Planechase 2012","57",1,"pc2",59585
 "624","Helldozer","Planechase","30",1,"hop",37378
 "625","Nature's Claim","Conspiracy","171",1,"cns",83263
-"626","Vampire Nocturnus","Prerelease Cards","41",1,NA,NA
-"627","Dungrove Elder","Game Day Promos","19",2,NA,NA
+"626","Vampire Nocturnus","Magic 2010 Promos","118_",1,NA,NA
+"627","Dungrove Elder","Magic 2012 Promos","171",2,"pm12",48133
 "628","Caves of Koilos","Magic 2015","241",3,"m15",91098
 "629","Cuombajj Witches","Anthologies","21",4,"ath",79549
 "630","Become Immense","Khans of Tarkir","130",2,"ktk",93197
@@ -643,7 +643,7 @@
 "642","Gurmag Angler","Fate Reforged","72",2,"frf",95242
 "643","Ancient Carp","Dragons of Tarkir","44",4,"dtk",96634
 "644","Collected Company","Dragons of Tarkir","177",3,"dtk",96501
-"645","Stinkweed Imp","Duel Decks: Anthology","36",1,NA,NA
+"645","Stinkweed Imp","Duel Decks Anthology: Divine vs. Demonic","36",1,"dvd",93605
 "646","Creakwood Liege","Modern Masters 2015","191",1,"mm2",98649
 "647","Creakwood Liege","Modern Masters 2015","191",1,"mm2",98649
 "648","Mutagenic Growth","Modern Masters 2015","149",2,"mm2",98842
@@ -662,12 +662,12 @@
 "661","Drudge Skeletons","Duels of the Planeswalkers","22",1,"dpa",79313
 "662","Dusk Imp","Duels of the Planeswalkers","23",1,"dpa",79314
 "663","Unholy Strength","Duels of the Planeswalkers","36",1,"dpa",79327
-"664","Dark Ritual","Coldsnap Theme Decks","24",1,NA,NA
+"664","Dark Ritual","Coldsnap Theme Decks","120",1,"cst",82392
 "665","Timber Gorge","Oath of the Gatewatch","179",1,"ogw",110827
-"666","Temple of Mystery","Clash Pack Promos","6",1,NA,NA
-"667","Dauntless Dourbark","Gateway Promos","12",1,NA,NA
-"668","Vampire Nighthawk","WPN Promos","33",1,NA,NA
-"669","Griselbrand","Grand Prix Promos","11",1,NA,NA
+"666","Temple of Mystery","Core Set 2020 Promos","255p",1,"pm20",193512
+"667","Dauntless Dourbark","Gateway 2007","12",1,"pg07",38191
+"668","Vampire Nighthawk","Wizards Play Network 2009","33",1,"pwp09",38210
+"669","Griselbrand","Grand Prix Promos","2015",1,"pgpx",95054
 "670","Bygone Bishop","Shadows over Innistrad","8",1,"soi",114851
 "671","Byway Courier","Shadows over Innistrad","196",1,"soi",116365
 "672","Convicted Killer","Shadows over Innistrad","149",1,"soi",116488
@@ -1624,7 +1624,7 @@
 "1623","Yavimaya Sapherd","Dominaria","189",1,"dom",164718
 "1624","Cast Down","Dominaria Promos","81",1,"pdom",164092
 "1625","Faithless Looting","Commander Anthology Volume II","96",3,"cm2",166802
-"1626","Ferocious Zheng","Global Series: Jiang Yanggu and Mu Yanling","28",3,NA,NA
+"1626","Ferocious Zheng","Global Series Jiang Yanggu & Mu Yanling","28",3,"gs1",168317
 "1627","Abnormal Endurance","Core Set 2019","85",2,"m19",168592
 "1628","Act of Treason","Core Set 2019","127",1,"m19",166699
 "1629","Aegis of the Heavens","Core Set 2019","1",1,"m19",169279
@@ -2345,11 +2345,11 @@
 "2344","Windstorm Drake","Ravnica Allegiance","60",1,"rna",183228
 "2345","Wrecking Beast","Ravnica Allegiance","150",3,"rna",183442
 "2346","Zhur-Taa Goblin","Ravnica Allegiance","215",2,"rna",183030
-"2347","Judith, the Scourge Diva","Prerelease Cards","1180",1,NA,NA
-"2348","Simic Ascendancy","Prerelease Cards","1189",1,NA,NA
+"2347","Judith, the Scourge Diva","Ravnica Allegiance Promos","185s",1,"prna",183988
+"2348","Simic Ascendancy","Ravnica Allegiance Promos","207s",1,"prna",183978
 "2349","Jaya Ballard","Mythic Edition","RA4",1,"med",183446
 "2350","Sorin Markov","Mythic Edition","RA3",1,"med",183445
-"2351","Lavinia, Azorius Renegade","Store Championship Promos","5",1,NA,NA
+"2351","Lavinia, Azorius Renegade","Ravnica Allegiance Promos","189",1,"prna",182130
 "2352","Growth Spiral","Ravnica Allegiance Promos","178",1,"prna",182124
 "2353","Light Up the Stage","Ravnica Allegiance Promos","107",1,"prna",182126
 "2354","Island - Dimir (A01)","GRN Ravnica Weekend","A01",1,"prwk",175224
@@ -2563,7 +2563,7 @@
 "2562","Wanderer's Strike","War of the Spark","38",4,"war",187201
 "2563","War Screecher","War of the Spark","39",1,"war",188159
 "2564","Wardscale Crocodile","War of the Spark","183",1,"war",188166
-"2565","Casualties of War","Prerelease Cards","1211",1,NA,NA
+"2565","Casualties of War","War of the Spark Promos","187s",1,"pwar",189476
 "2566","Paradise Druid","War of the Spark Promos","171",4,"pwar",187158
 "2567","Abominable Treefolk","Modern Horizons","194",1,"mh1",190753
 "2568","Amorphous Axe","Modern Horizons","219",1,"mh1",191737
@@ -2748,7 +2748,7 @@
 "2747","Sedge Scorpion","Core Set 2020","192",1,"m20",192933
 "2748","Shifting Ceratops","Core Set 2020","194",2,"m20",192635
 "2749","Sorcerer of the Fang","Core Set 2020","114",2,"m20",192886
-"2750","Sorin, Vampire Lord","Core Set 2020 Extras","290",1,NA,NA
+"2750","Sorin, Vampire Lord","Core Set 2020","290",1,"m20",192693
 "2751","Soul Salvage","Core Set 2020","116",2,"m20",192887
 "2752","Temple of Malady","Core Set 2020","254",4,"m20",192606
 "2753","Thought Distortion","Core Set 2020","117",1,"m20",192531
@@ -2759,7 +2759,7 @@
 "2758","Vengeful Warchief","Core Set 2020","121",1,"m20",192890
 "2759","Vivien, Arkbow Ranger","Core Set 2020","199",1,"m20",192698
 "2760","Yarok's Fenlurker","Core Set 2020","123",1,"m20",192529
-"2761","Temple of Mystery","Prerelease Cards","1365",1,NA,NA
+"2761","Temple of Mystery","Core Set 2020 Promos","255s",1,"pm20",194077
 "2762","Island","M20 Promo Packs","2",1,"ppp1",193281
 "2763","Corpse Knight","Core Set 2020 Promos","206",1,"pm20",193779
 "2764","Ajani, Strength of the Pride","Core Set 2020 Promos","2p",1,"pm20",193460
@@ -3272,8 +3272,8 @@
 "3271","Illuna, Apex of Wishes (Monster)","Ikoria: Lair of Behemoths","379",1,"iko",212004
 "3272","Cultivate","Commander 2020","170",3,"c20",212500
 "3273","Arid Mesa","Secret Lair: Ultimate Edition","4",1,"slu",210710
-"3274","Hangarback Walker","Love Your LGS","2",1,NA,NA
-"3275","Reliquary Tower","Love Your LGS","1",1,NA,NA
+"3274","Hangarback Walker","Love Your LGS 2020","2",1,"plg20",215335
+"3275","Reliquary Tower","Love Your LGS 2020","1",1,"plg20",215334
 "3276","Grim Tutor","Core Set 2021","103",1,"m21",215341
 "3277","Ugin, the Spirit Dragon (Borderless)","Core Set 2021","279",1,"m21",215340
 "3278","Scavenging Ooze (Alternate Art)","Core Set 2021","318",3,"m21",215696
@@ -3309,7 +3309,7 @@
 "3308","Golgari Thug","The List","98",1,"plist",222612
 "3309","Doran, the Siege Tower","The List","206",1,"plist",222407
 "3310","Doomed Traveler","Commander Legends","19",3,"cmr",226657
-"3311","Loxodon Warhammer","Commander Legends Decks","465",1,NA,NA
+"3311","Loxodon Warhammer","Commander Legends","465",1,"cmr",227363
 "3312","Daryl, Hunter of Walkers","Secret Lair Drop","144",1,"sld",224142
 "3313","Collected Company","Secret Lair Drop","166",1,"sld",227660
 "3314","Axgard Braggart","Kaldheim","1",2,"khm",230675
@@ -3620,7 +3620,7 @@
 "3619","Old-Growth Troll (Extended Art)","Kaldheim","365",1,"khm",230126
 "3620","Faceless Haven (Extended Art)","Kaldheim","371",1,"khm",230281
 "3621","Valkyrie Harbinger","Kaldheim","374",1,"khm",229271
-"3622","Realmwalker","Buy-a-Box Promos","59",2,NA,NA
+"3622","Realmwalker","Kaldheim","399",2,"khm",230924
 "3623","Usher of the Fallen","Kaldheim","401",1,"khm",230931
 "3624","Strategic Planning","Kaldheim","402",1,"khm",230929
 "3625","Poison the Cup","Kaldheim","403",1,"khm",230925
@@ -3678,10 +3678,10 @@
 "3677","Semester's End (Extended Art)","Strixhaven: School of Mages","292",1,"stx",235564
 "3678","Confront the Past (Extended Art)","Strixhaven: School of Mages","303",1,"stx",235529
 "3679","Silverquill Command (Extended Art)","Strixhaven: School of Mages","352",1,"stx",233277
-"3680","Compulsive Research","Mystical Archive","14",1,NA,NA
-"3681","Tainted Pact","Mystical Archive","33",1,NA,NA
-"3682","Revitalize","Japanese Mystical Archive","72",1,NA,NA
-"3683","Claim the Firstborn (Foil Etched)","Mystical Archive Variants","37",1,NA,NA
+"3680","Compulsive Research","Strixhaven Mystical Archive","14",1,"sta",235485
+"3681","Tainted Pact","Strixhaven Mystical Archive","33",1,"sta",235648
+"3682","Revitalize","Strixhaven Mystical Archive","72",1,NA,NA
+"3683","Claim the Firstborn (Foil Etched)","Strixhaven Mystical Archive","37",1,"sta",235618
 "3684","Blight Mound (Extended Art)","Commander 2021","363",1,"c21",236627
 "3685","Abiding Grace","Modern Horizons 2","1",1,"mh2",240139
 "3686","Arcbound Mouser","Modern Horizons 2","3",2,"mh2",239790
