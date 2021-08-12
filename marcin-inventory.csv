@@ -588,12 +588,12 @@
 "587","Stomping Ground","Gatecrash","247",1,"gtc",67322
 "588","Hidden Strings","Dragon's Maze","12",4,"dgm",67963
 "589","Putrefy","Dragon's Maze","93",4,"dgm",67910
-"590","Battle Sliver","Magic 2014 Core Set","128",1,NA,NA
-"591","Elvish Mystic","Magic 2014 Core Set","169",4,NA,NA
-"592","Into the Wilds","Magic 2014 Core Set","180",4,NA,NA
-"593","Predatory Sliver","Magic 2014 Core Set","189",4,NA,NA
-"594","Sentinel Sliver","Magic 2014 Core Set","30",1,NA,NA
-"595","Striking Sliver","Magic 2014 Core Set","157",3,NA,NA
+"590","Battle Sliver","Magic 2014","128",1,"m14",68220
+"591","Elvish Mystic","Magic 2014","169",4,"m14",69146
+"592","Into the Wilds","Magic 2014","180",4,"m14",69164
+"593","Predatory Sliver","Magic 2014","189",4,"m14",69180
+"594","Sentinel Sliver","Magic 2014","30",1,"m14",68223
+"595","Striking Sliver","Magic 2014","157",3,"m14",68225
 "596","Anger of the Gods","Theros","112",2,"ths",71191
 "597","Ashen Rider","Theros","187",1,"ths",71396
 "598","Fleecemane Lion","Theros","193",2,"ths",71084
@@ -626,7 +626,7 @@
 "625","Nature's Claim","Conspiracy","171",1,"cns",83263
 "626","Vampire Nocturnus","Prerelease Cards","41",1,NA,NA
 "627","Dungrove Elder","Game Day Promos","19",2,NA,NA
-"628","Caves of Koilos","Magic 2015 Core Set","241",3,NA,NA
+"628","Caves of Koilos","Magic 2015","241",3,"m15",91098
 "629","Cuombajj Witches","Anthologies","21",4,"ath",79549
 "630","Become Immense","Khans of Tarkir","130",2,"ktk",93197
 "631","Bloodstained Mire","Khans of Tarkir","230",3,"ktk",92830
@@ -644,11 +644,11 @@
 "643","Ancient Carp","Dragons of Tarkir","44",4,"dtk",96634
 "644","Collected Company","Dragons of Tarkir","177",3,"dtk",96501
 "645","Stinkweed Imp","Duel Decks: Anthology","36",1,NA,NA
-"646","Creakwood Liege","Modern Masters 2015 Edition","191",1,NA,NA
-"647","Creakwood Liege","Modern Masters 2015 Edition","191",1,NA,NA
-"648","Mutagenic Growth","Modern Masters 2015 Edition","149",2,NA,NA
-"649","Noble Hierarch","Modern Masters 2015 Edition","151",1,NA,NA
-"650","Vampire Lacerator","Modern Masters 2015 Edition","101",2,NA,NA
+"646","Creakwood Liege","Modern Masters 2015","191",1,"mm2",98649
+"647","Creakwood Liege","Modern Masters 2015","191",1,"mm2",98649
+"648","Mutagenic Growth","Modern Masters 2015","149",2,"mm2",98842
+"649","Noble Hierarch","Modern Masters 2015","151",1,"mm2",98387
+"650","Vampire Lacerator","Modern Masters 2015","101",2,"mm2",98392
 "651","Caves of Koilos","Magic Origins","245",1,"ori",100228
 "652","Dwynen's Elite","Magic Origins","173",2,"ori",100238
 "653","Shaman of the Pack","Magic Origins","217",2,"ori",100242
@@ -858,9 +858,9 @@
 "857","Cathartic Reunion","Kaladesh","109",4,"kld",123063
 "858","Fatal Push","Aether Revolt","57",2,"aer",126331
 "859","Gifted Aetherborn","Aether Revolt","61",2,"aer",126428
-"860","Griselbrand","Modern Masters 2017 Edition","72",1,NA,NA
-"861","Might of Old Krosa","Modern Masters 2017 Edition","130",4,NA,NA
-"862","Tarmogoyf","Modern Masters 2017 Edition","141",1,NA,NA
+"860","Griselbrand","Modern Masters 2017","72",1,"mm3",128475
+"861","Might of Old Krosa","Modern Masters 2017","130",4,"mm3",128477
+"862","Tarmogoyf","Modern Masters 2017","141",1,"mm3",128661
 "863","Ahn-Crop Champion","Amonkhet","194",1,"akh",130188
 "864","Ahn-Crop Crasher","Amonkhet","117",1,"akh",129722
 "865","Ancient Crab","Amonkhet","40",1,"akh",129519
@@ -3000,36 +3000,36 @@
 "2999","Forest (267)","Throne of Eldraine","267",1,"eld",199537
 "3000","Forest (268)","Throne of Eldraine","268",1,"eld",199538
 "3001","Forest (269)","Throne of Eldraine","269",1,"eld",199540
-"3002","Rowan's Battleguard","Throne of Eldraine Variants","306",1,NA,NA
-"3003","Silverwing Squadron","Throne of Eldraine Variants","315",1,NA,NA
-"3004","Embereth Skyblazer","Throne of Eldraine Variants","321",1,NA,NA
-"3005","Command Tower","Throne of Eldraine Variants","333",1,NA,NA
-"3006","Ardenvale Tactician // Dizzying Swoop (Showcase)","Throne of Eldraine Variants","273",1,NA,NA
-"3007","Faerie Guidemother // Gift of the Fae (Showcase)","Throne of Eldraine Variants","274",1,NA,NA
-"3008","Giant Killer // Chop Down (Showcase)","Throne of Eldraine Variants","275",1,NA,NA
-"3009","Lonesome Unicorn // Rider in Need (Showcase)","Throne of Eldraine Variants","276",2,NA,NA
-"3010","Realm-Cloaked Giant // Cast Off (Showcase)","Throne of Eldraine Variants","277",1,NA,NA
-"3011","Shepherd of the Flock // Usher to Safety (Showcase)","Throne of Eldraine Variants","278",1,NA,NA
-"3012","Animating Faerie // Bring to Life (Showcase)","Throne of Eldraine Variants","280",1,NA,NA
-"3013","Fae of Wishes // Granted (Showcase)","Throne of Eldraine Variants","282",4,NA,NA
-"3014","Foulmire Knight // Profane Insight (Showcase)","Throne of Eldraine Variants","286",1,NA,NA
-"3015","Murderous Rider // Swift End (Showcase)","Throne of Eldraine Variants","287",1,NA,NA
-"3016","Order of Midnight // Alter Fate (Showcase)","Throne of Eldraine Variants","288",2,NA,NA
-"3017","Smitten Swordmaster // Curry Favor (Showcase)","Throne of Eldraine Variants","290",2,NA,NA
-"3018","Smitten Swordmaster // Curry Favor (Showcase)","Throne of Eldraine Variants","290",1,NA,NA
-"3019","Merchant of the Vale // Haggle (Showcase)","Throne of Eldraine Variants","293",2,NA,NA
-"3020","Beanstalk Giant // Fertile Footsteps (Showcase)","Throne of Eldraine Variants","295",1,NA,NA
-"3021","Beanstalk Giant // Fertile Footsteps (Showcase)","Throne of Eldraine Variants","295",1,NA,NA
-"3022","Flaxen Intruder // Welcome Home (Showcase)","Throne of Eldraine Variants","297",1,NA,NA
-"3023","Rosethorn Acolyte // Seasonal Ritual (Showcase)","Throne of Eldraine Variants","300",1,NA,NA
-"3024","Oakhame Ranger // Bring Back (Showcase)","Throne of Eldraine Variants","302",1,NA,NA
-"3025","Harmonious Archon (Extended Art)","Throne of Eldraine Variants","338",1,NA,NA
-"3026","Ayara, First of Locthwain (Extended Art)","Throne of Eldraine Variants","350",1,NA,NA
-"3027","Clackbridge Troll (Extended Art)","Throne of Eldraine Variants","353",1,NA,NA
-"3028","Rankle, Master of Pranks (Extended Art)","Throne of Eldraine Variants","356",1,NA,NA
-"3029","Wicked Wolf (Extended Art)","Throne of Eldraine Variants","374",1,NA,NA
-"3030","Sorcerous Spyglass (Extended Art)","Throne of Eldraine Variants","384",1,NA,NA
-"3031","Sorcerous Spyglass (Extended Art)","Throne of Eldraine Variants","384",1,NA,NA
+"3002","Rowan's Battleguard","Throne of Eldraine","306",1,"eld",198726
+"3003","Silverwing Squadron","Throne of Eldraine","315",1,"eld",198430
+"3004","Embereth Skyblazer","Throne of Eldraine","321",1,"eld",198429
+"3005","Command Tower","Throne of Eldraine","333",1,"eld",198815
+"3006","Ardenvale Tactician // Dizzying Swoop (Showcase)","Throne of Eldraine","273",1,"eld",199037
+"3007","Faerie Guidemother // Gift of the Fae (Showcase)","Throne of Eldraine","274",1,"eld",198977
+"3008","Giant Killer // Chop Down (Showcase)","Throne of Eldraine","275",1,"eld",198829
+"3009","Lonesome Unicorn // Rider in Need (Showcase)","Throne of Eldraine","276",2,"eld",199218
+"3010","Realm-Cloaked Giant // Cast Off (Showcase)","Throne of Eldraine","277",1,"eld",199303
+"3011","Shepherd of the Flock // Usher to Safety (Showcase)","Throne of Eldraine","278",1,"eld",199348
+"3012","Animating Faerie // Bring to Life (Showcase)","Throne of Eldraine","280",1,"eld",198560
+"3013","Fae of Wishes // Granted (Showcase)","Throne of Eldraine","282",4,"eld",199426
+"3014","Foulmire Knight // Profane Insight (Showcase)","Throne of Eldraine","286",1,"eld",198403
+"3015","Murderous Rider // Swift End (Showcase)","Throne of Eldraine","287",1,"eld",198818
+"3016","Order of Midnight // Alter Fate (Showcase)","Throne of Eldraine","288",2,"eld",198406
+"3017","Smitten Swordmaster // Curry Favor (Showcase)","Throne of Eldraine","290",2,"eld",198402
+"3018","Smitten Swordmaster // Curry Favor (Showcase)","Throne of Eldraine","290",1,"eld",198402
+"3019","Merchant of the Vale // Haggle (Showcase)","Throne of Eldraine","293",2,"eld",199015
+"3020","Beanstalk Giant // Fertile Footsteps (Showcase)","Throne of Eldraine","295",1,"eld",198562
+"3021","Beanstalk Giant // Fertile Footsteps (Showcase)","Throne of Eldraine","295",1,"eld",198562
+"3022","Flaxen Intruder // Welcome Home (Showcase)","Throne of Eldraine","297",1,"eld",198387
+"3023","Rosethorn Acolyte // Seasonal Ritual (Showcase)","Throne of Eldraine","300",1,"eld",198563
+"3024","Oakhame Ranger // Bring Back (Showcase)","Throne of Eldraine","302",1,"eld",198992
+"3025","Harmonious Archon (Extended Art)","Throne of Eldraine","338",1,"eld",198855
+"3026","Ayara, First of Locthwain (Extended Art)","Throne of Eldraine","350",1,"eld",198982
+"3027","Clackbridge Troll (Extended Art)","Throne of Eldraine","353",1,"eld",198983
+"3028","Rankle, Master of Pranks (Extended Art)","Throne of Eldraine","356",1,"eld",198372
+"3029","Wicked Wolf (Extended Art)","Throne of Eldraine","374",1,"eld",198820
+"3030","Sorcerous Spyglass (Extended Art)","Throne of Eldraine","384",1,"eld",198996
+"3031","Sorcerous Spyglass (Extended Art)","Throne of Eldraine","384",1,"eld",198996
 "3032","Chancellor of the Annex","Mystery Booster","54",3,"mb1",202860
 "3033","Bloodghast","Secret Lair Drop","6",1,"sld",205247
 "3034","Golgari Thug","Secret Lair Drop","7",1,"sld",205248
@@ -3247,20 +3247,20 @@
 "3246","Mountain (253)","Theros Beyond Death","253",2,"thb",206025
 "3247","Forest (254)","Theros Beyond Death","254",3,"thb",206026
 "3248","Forest (254)","Theros Beyond Death","254",1,"thb",206026
-"3249","Daxos, Blessed by the Sun (Showcase)","Theros Beyond Death Variants","258",2,NA,NA
-"3250","Heliod, Sun-Crowned (Showcase)","Theros Beyond Death Variants","259",1,NA,NA
-"3251","Callaphe, Beloved of the Sea (Showcase)","Theros Beyond Death Variants","260",2,NA,NA
-"3252","Thassa, Deep-Dwelling (Showcase)","Theros Beyond Death Variants","261",1,NA,NA
-"3253","Erebos, Bleak-Hearted (Showcase)","Theros Beyond Death Variants","262",1,NA,NA
-"3254","Tymaret, Chosen from Death (Showcase)","Theros Beyond Death Variants","263",4,NA,NA
-"3255","Renata, Called to the Hunt (Showcase)","Theros Beyond Death Variants","267",1,NA,NA
-"3256","Klothys, God of Destiny (Showcase)","Theros Beyond Death Variants","268",1,NA,NA
-"3257","Swamp (282)","Theros Beyond Death Variants","282",1,NA,NA
-"3258","Victory's Envoy","Theros Beyond Death Variants","289",1,NA,NA
-"3259","Thassa's Oracle (Extended Art)","Theros Beyond Death Variants","308",1,NA,NA
-"3260","Thryx, the Sudden Storm (Extended Art)","Theros Beyond Death Variants","309",1,NA,NA
-"3261","Ox of Agonas (Extended Art)","Theros Beyond Death Variants","318",1,NA,NA
-"3262","Underworld Breach (Extended Art)","Theros Beyond Death Variants","324",2,NA,NA
+"3249","Daxos, Blessed by the Sun (Showcase)","Theros Beyond Death","258",2,"thb",206221
+"3250","Heliod, Sun-Crowned (Showcase)","Theros Beyond Death","259",1,"thb",206693
+"3251","Callaphe, Beloved of the Sea (Showcase)","Theros Beyond Death","260",2,"thb",206853
+"3252","Thassa, Deep-Dwelling (Showcase)","Theros Beyond Death","261",1,"thb",206758
+"3253","Erebos, Bleak-Hearted (Showcase)","Theros Beyond Death","262",1,"thb",206645
+"3254","Tymaret, Chosen from Death (Showcase)","Theros Beyond Death","263",4,"thb",206804
+"3255","Renata, Called to the Hunt (Showcase)","Theros Beyond Death","267",1,"thb",206849
+"3256","Klothys, God of Destiny (Showcase)","Theros Beyond Death","268",1,"thb",206459
+"3257","Swamp (282)","Theros Beyond Death","282",1,"thb",206197
+"3258","Victory's Envoy","Theros Beyond Death","289",1,"thb",206244
+"3259","Thassa's Oracle (Extended Art)","Theros Beyond Death","308",1,"thb",206928
+"3260","Thryx, the Sudden Storm (Extended Art)","Theros Beyond Death","309",1,"thb",206830
+"3261","Ox of Agonas (Extended Art)","Theros Beyond Death","318",1,"thb",206712
+"3262","Underworld Breach (Extended Art)","Theros Beyond Death","324",2,"thb",206643
 "3263","Vraska, Swarm's Eminence","Secret Lair Drop","536",1,"sld",205480
 "3264","Almighty Brushwagg","Ikoria: Lair of Behemoths","143",1,"iko",212608
 "3265","Wilt","Ikoria: Lair of Behemoths","176",4,"iko",212274
@@ -3275,16 +3275,16 @@
 "3274","Hangarback Walker","Love Your LGS","2",1,NA,NA
 "3275","Reliquary Tower","Love Your LGS","1",1,NA,NA
 "3276","Grim Tutor","Core Set 2021","103",1,"m21",215341
-"3277","Ugin, the Spirit Dragon (Borderless)","Core Set 2021 Variants","279",1,NA,NA
-"3278","Scavenging Ooze (Alternate Art)","Core Set 2021 Variants","318",3,NA,NA
+"3277","Ugin, the Spirit Dragon (Borderless)","Core Set 2021","279",1,"m21",215340
+"3278","Scavenging Ooze (Alternate Art)","Core Set 2021","318",3,"m21",215696
 "3279","Thragtusk","Double Masters","183",1,"2xm",218622
 "3280","Ensnaring Bridge","Double Masters","253",1,"2xm",218601
 "3281","Oblivion Stone","Double Masters","279",1,"2xm",218880
 "3282","Sundering Titan","Double Masters","292",1,"2xm",218467
-"3283","Karn Liberated (Borderless)","Double Masters Variants","333",1,NA,NA
-"3284","Dark Confidant (Borderless)","Double Masters Variants","342",1,NA,NA
-"3285","Noble Hierarch (Borderless)","Double Masters Variants","352",1,NA,NA
-"3286","Wurmcoil Engine (Borderless)","Double Masters Variants","368",1,NA,NA
+"3283","Karn Liberated (Borderless)","Double Masters","333",1,"2xm",218280
+"3284","Dark Confidant (Borderless)","Double Masters","342",1,"2xm",218386
+"3285","Noble Hierarch (Borderless)","Double Masters","352",1,"2xm",218374
+"3286","Wurmcoil Engine (Borderless)","Double Masters","368",1,"2xm",218391
 "3287","Spell Pierce","Secret Lair Drop","41",2,"sld",214890
 "3288","Blood Artist","Secret Lair Drop","42",2,"sld",214889
 "3289","Eternal Witness","Secret Lair Drop","43",2,"sld",214888
@@ -3303,8 +3303,8 @@
 "3302","Baleful Strix","Secret Lair Drop","94",1,"sld",214905
 "3303","Dovescape","Secret Lair Drop","95",1,"sld",214904
 "3304","Oran-Rief Ooze","Zendikar Rising","198",2,"znr",222133
-"3305","Nissa of Shadowed Boughs (Borderless)","Zendikar Rising Variants","283",2,NA,NA
-"3306","Felidar Retreat (Showcase)","Zendikar Rising Variants","292",3,NA,NA
+"3305","Nissa of Shadowed Boughs (Borderless)","Zendikar Rising","283",2,"znr",221781
+"3306","Felidar Retreat (Showcase)","Zendikar Rising","292",3,"znr",222140
 "3307","Amoeboid Changeling","The List","44",1,"plist",222417
 "3308","Golgari Thug","The List","98",1,"plist",222612
 "3309","Doran, the Siege Tower","The List","206",1,"plist",222407
@@ -3595,31 +3595,31 @@
 "3594","Snow-Covered Mountain","Kaldheim","283",1,"khm",230103
 "3595","Snow-Covered Forest","Kaldheim","284",1,"khm",230146
 "3596","Snow-Covered Forest","Kaldheim","285",1,"khm",230105
-"3597","Kaya the Inexorable (Borderless)","Kaldheim Variants","288",1,NA,NA
-"3598","Halvar, God of Battle // Sword of the Realms (Showcase)","Kaldheim Variants","299",1,NA,NA
-"3599","Sigrid, God-Favored (Showcase)","Kaldheim Variants","301",1,NA,NA
-"3600","Esika, God of the Tree // The Prismatic Bridge (Showcase)","Kaldheim Variants","314",1,NA,NA
-"3601","Esika's Chariot (Showcase)","Kaldheim Variants","315",2,NA,NA
-"3602","Fynn, the Fangbearer (Showcase)","Kaldheim Variants","316",1,NA,NA
-"3603","Fynn, the Fangbearer (Showcase)","Kaldheim Variants","316",1,NA,NA
-"3604","Kolvori, God of Kinship // The Ringhart Crest (Showcase)","Kaldheim Variants","318",1,NA,NA
-"3605","Aegar, the Freezing Flame (Showcase)","Kaldheim Variants","321",1,NA,NA
-"3606","Firja, Judge of Valor (Showcase)","Kaldheim Variants","322",1,NA,NA
-"3607","Harald, King of Skemfar (Showcase)","Kaldheim Variants","323",1,NA,NA
-"3608","Kardur, Doomscourge (Showcase)","Kaldheim Variants","324",1,NA,NA
-"3609","Maja, Bretagard Protector (Showcase)","Kaldheim Variants","327",1,NA,NA
-"3610","Moritte of the Frost (Showcase)","Kaldheim Variants","328",2,NA,NA
-"3611","Narfi, Betrayer King (Showcase)","Kaldheim Variants","329",1,NA,NA
-"3612","Svella, Ice Shaper (Showcase)","Kaldheim Variants","331",1,NA,NA
-"3613","Vega, the Watcher (Showcase)","Kaldheim Variants","332",1,NA,NA
-"3614","Search for Glory (Extended Art)","Kaldheim Variants","340",1,NA,NA
-"3615","Cosmos Charger (Extended Art)","Kaldheim Variants","342",1,NA,NA
-"3616","Tundra Fumarole (Extended Art)","Kaldheim Variants","361",1,NA,NA
-"3617","Elvish Warmaster (Extended Art)","Kaldheim Variants","363",1,NA,NA
-"3618","Elvish Warmaster (Extended Art)","Kaldheim Variants","363",1,NA,NA
-"3619","Old-Growth Troll (Extended Art)","Kaldheim Variants","365",1,NA,NA
-"3620","Faceless Haven (Extended Art)","Kaldheim Variants","371",1,NA,NA
-"3621","Valkyrie Harbinger","Kaldheim Variants","374",1,NA,NA
+"3597","Kaya the Inexorable (Borderless)","Kaldheim","288",1,"khm",229253
+"3598","Halvar, God of Battle // Sword of the Realms (Showcase)","Kaldheim","299",1,"khm",229255
+"3599","Sigrid, God-Favored (Showcase)","Kaldheim","301",1,"khm",230121
+"3600","Esika, God of the Tree // The Prismatic Bridge (Showcase)","Kaldheim","314",1,"khm",230289
+"3601","Esika's Chariot (Showcase)","Kaldheim","315",2,"khm",230260
+"3602","Fynn, the Fangbearer (Showcase)","Kaldheim","316",1,"khm",230915
+"3603","Fynn, the Fangbearer (Showcase)","Kaldheim","316",1,"khm",230915
+"3604","Kolvori, God of Kinship // The Ringhart Crest (Showcase)","Kaldheim","318",1,"khm",230291
+"3605","Aegar, the Freezing Flame (Showcase)","Kaldheim","321",1,"khm",230510
+"3606","Firja, Judge of Valor (Showcase)","Kaldheim","322",1,"khm",230276
+"3607","Harald, King of Skemfar (Showcase)","Kaldheim","323",1,"khm",230461
+"3608","Kardur, Doomscourge (Showcase)","Kaldheim","324",1,"khm",230462
+"3609","Maja, Bretagard Protector (Showcase)","Kaldheim","327",1,"khm",230917
+"3610","Moritte of the Frost (Showcase)","Kaldheim","328",2,"khm",230278
+"3611","Narfi, Betrayer King (Showcase)","Kaldheim","329",1,"khm",230511
+"3612","Svella, Ice Shaper (Showcase)","Kaldheim","331",1,"khm",230918
+"3613","Vega, the Watcher (Showcase)","Kaldheim","332",1,"khm",230279
+"3614","Search for Glory (Extended Art)","Kaldheim","340",1,"khm",230229
+"3615","Cosmos Charger (Extended Art)","Kaldheim","342",1,"khm",230232
+"3616","Tundra Fumarole (Extended Art)","Kaldheim","361",1,"khm",230528
+"3617","Elvish Warmaster (Extended Art)","Kaldheim","363",1,"khm",230125
+"3618","Elvish Warmaster (Extended Art)","Kaldheim","363",1,"khm",230125
+"3619","Old-Growth Troll (Extended Art)","Kaldheim","365",1,"khm",230126
+"3620","Faceless Haven (Extended Art)","Kaldheim","371",1,"khm",230281
+"3621","Valkyrie Harbinger","Kaldheim","374",1,"khm",229271
 "3622","Realmwalker","Buy-a-Box Promos","59",2,NA,NA
 "3623","Usher of the Fallen","Promo Pack: Kaldheim","1",1,NA,NA
 "3624","Strategic Planning","Promo Pack: Kaldheim","2",1,NA,NA
@@ -3675,14 +3675,14 @@
 "3674","Codie, Vociferous Codex","Strixhaven: School of Mages","253",1,"stx",235603
 "3675","Cogwork Archivist","Strixhaven: School of Mages","254",1,"stx",235695
 "3676","Vineglimmer Snarl","Strixhaven: School of Mages","274",1,"stx",235161
-"3677","Semester's End (Extended Art)","Strixhaven Variants","292",1,NA,NA
-"3678","Confront the Past (Extended Art)","Strixhaven Variants","303",1,NA,NA
-"3679","Silverquill Command (Extended Art)","Strixhaven Variants","352",1,NA,NA
+"3677","Semester's End (Extended Art)","Strixhaven: School of Mages","292",1,"stx",235564
+"3678","Confront the Past (Extended Art)","Strixhaven: School of Mages","303",1,"stx",235529
+"3679","Silverquill Command (Extended Art)","Strixhaven: School of Mages","352",1,"stx",233277
 "3680","Compulsive Research","Mystical Archive","14",1,NA,NA
 "3681","Tainted Pact","Mystical Archive","33",1,NA,NA
 "3682","Revitalize","Japanese Mystical Archive","72",1,NA,NA
 "3683","Claim the Firstborn (Foil Etched)","Mystical Archive Variants","37",1,NA,NA
-"3684","Blight Mound (Extended Art)","Commander 2021 Variants","363",1,NA,NA
+"3684","Blight Mound (Extended Art)","Commander 2021","363",1,"c21",236627
 "3685","Abiding Grace","Modern Horizons 2","1",1,"mh2",240139
 "3686","Arcbound Mouser","Modern Horizons 2","3",2,"mh2",239790
 "3687","Arcbound Prototype","Modern Horizons 2","4",1,"mh2",240417
@@ -3830,19 +3830,19 @@
 "3829","Titania, Protector of Argoth","Modern Horizons 2","287",1,"mh2",240146
 "3830","Yavimaya Elder","Modern Horizons 2","288",1,"mh2",240173
 "3831","Cursed Totem","Modern Horizons 2","295",1,"mh2",240154
-"3832","Late to Dinner (Showcase)","Modern Horizons 2 Variants","329",1,NA,NA
-"3833","Floodhound (Showcase)","Modern Horizons 2 Variants","335",1,NA,NA
-"3834","Mystic Redaction (Showcase)","Modern Horizons 2 Variants","338",1,NA,NA
-"3835","Archon of Cruelty (Showcase)","Modern Horizons 2 Variants","342",1,NA,NA
-"3836","Kitchen Imp (Showcase)","Modern Horizons 2 Variants","343",1,NA,NA
-"3837","World-Weary (Showcase)","Modern Horizons 2 Variants","348",1,NA,NA
-"3838","Faithless Salvaging (Showcase)","Modern Horizons 2 Variants","349",1,NA,NA
-"3839","Abundant Harvest (Showcase)","Modern Horizons 2 Variants","354",1,NA,NA
-"3840","Arcbound Shikari (Showcase)","Modern Horizons 2 Variants","360",1,NA,NA
-"3841","Combine Chrysalis (Showcase)","Modern Horizons 2 Variants","362",1,NA,NA
-"3842","Prophetic Titan (Showcase)","Modern Horizons 2 Variants","373",1,NA,NA
-"3843","Blacksmith's Skill (Retro Frame)","Modern Horizons 2 Variants","381",1,NA,NA
-"3844","Step Through (Retro Frame)","Modern Horizons 2 Variants","392",1,NA,NA
-"3845","Bone Shards (Retro Frame)","Modern Horizons 2 Variants","395",1,NA,NA
-"3846","Galvanic Relay (Retro Frame)","Modern Horizons 2 Variants","406",1,NA,NA
-"3847","Marsh Flats (Extended Art)","Modern Horizons 2 Variants","476",1,NA,NA
+"3832","Late to Dinner (Showcase)","Modern Horizons 2","329",1,"mh2",239721
+"3833","Floodhound (Showcase)","Modern Horizons 2","335",1,"mh2",240248
+"3834","Mystic Redaction (Showcase)","Modern Horizons 2","338",1,"mh2",239706
+"3835","Archon of Cruelty (Showcase)","Modern Horizons 2","342",1,"mh2",240218
+"3836","Kitchen Imp (Showcase)","Modern Horizons 2","343",1,"mh2",239724
+"3837","World-Weary (Showcase)","Modern Horizons 2","348",1,"mh2",240234
+"3838","Faithless Salvaging (Showcase)","Modern Horizons 2","349",1,"mh2",240247
+"3839","Abundant Harvest (Showcase)","Modern Horizons 2","354",1,"mh2",239692
+"3840","Arcbound Shikari (Showcase)","Modern Horizons 2","360",1,"mh2",239676
+"3841","Combine Chrysalis (Showcase)","Modern Horizons 2","362",1,"mh2",240229
+"3842","Prophetic Titan (Showcase)","Modern Horizons 2","373",1,"mh2",240122
+"3843","Blacksmith's Skill (Retro Frame)","Modern Horizons 2","381",1,"mh2",240219
+"3844","Step Through (Retro Frame)","Modern Horizons 2","392",1,"mh2",239784
+"3845","Bone Shards (Retro Frame)","Modern Horizons 2","395",1,"mh2",239793
+"3846","Galvanic Relay (Retro Frame)","Modern Horizons 2","406",1,"mh2",239781
+"3847","Marsh Flats (Extended Art)","Modern Horizons 2","476",1,"mh2",238613
