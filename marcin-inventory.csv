@@ -66,7 +66,7 @@
 "65","Stinkweed Imp","Ravnica: City of Guilds","107",1,"rav",13428
 "66","Skeletal Vampire","Guildpact","62",1,"gpt",13780
 "67","Nettling Curse","Dissension","48",1,"dis",13897
-"68","Crime // Punishment","Dissension","150a/150b",2,NA,NA
+"68","Crime // Punishment","Dissension","150",2,"dis",13844
 "69","Jötun Grunt","Coldsnap","8",1,"csp",14058
 "70","Conflagrate","Time Spiral","151",2,"tsp",14190
 "71","Dralnu, Lich Lord","Time Spiral","237",1,"tsp",14205
@@ -670,7 +670,7 @@
 "669","Griselbrand","Grand Prix Promos","11",1,NA,NA
 "670","Bygone Bishop","Shadows over Innistrad","8",1,"soi",114851
 "671","Byway Courier","Shadows over Innistrad","196",1,"soi",116365
-"672","Convicted Killer","Shadows over Innistrad","149a/149b",1,NA,NA
+"672","Convicted Killer","Shadows over Innistrad","149",1,"soi",116488
 "673","Drownyard Explorers","Shadows over Innistrad","56",1,"soi",116380
 "674","Eerie Interlude","Shadows over Innistrad","16",1,"soi",114864
 "675","Emissary of the Sleepless","Shadows over Innistrad","17",1,"soi",116384
@@ -714,15 +714,15 @@
 "713","Chilling Grasp","Eldritch Moon","50",1,"emn",119675
 "714","Choking Restraints","Eldritch Moon","16",1,"emn",120467
 "715","Clear Shot","Eldritch Moon","152",1,"emn",120468
-"716","Conduit of Storms","Eldritch Moon","124a/124b",1,NA,NA
+"716","Conduit of Storms","Eldritch Moon","124",1,"emn",120470
 "717","Contingency Plan","Eldritch Moon","52",1,"emn",120471
 "718","Convolute","Eldritch Moon","53",1,"emn",120472
 "719","Courageous Outrider","Eldritch Moon","18",1,"emn",120431
 "720","Crop Sigil","Eldritch Moon","153",1,"emn",120473
 "721","Crossroads Consecrator","Eldritch Moon","154",1,"emn",120474
-"722","Cryptolith Fragment","Eldritch Moon","193a/193b",1,NA,NA
+"722","Cryptolith Fragment","Eldritch Moon","193",1,"emn",119676
 "723","Cultist's Staff","Eldritch Moon","194",1,"emn",120475
-"724","Curious Homunculus","Eldritch Moon","54a/54b",1,NA,NA
+"724","Curious Homunculus","Eldritch Moon","54",1,"emn",119910
 "725","Dawn Gryff","Eldritch Moon","19",1,"emn",119677
 "726","Decimator of the Provinces","Eldritch Moon","2",1,"emn",120117
 "727","Deranged Whelp","Eldritch Moon","125",1,"emn",120476
@@ -738,7 +738,7 @@
 "737","Emrakul's Evangel","Eldritch Moon","156",2,"emn",120261
 "738","Emrakul's Influence","Eldritch Moon","157",1,"emn",119911
 "739","Enlightened Maniac","Eldritch Moon","58",1,"emn",120484
-"740","Extricator of Sin","Eldritch Moon","23a/23b",1,NA,NA
+"740","Extricator of Sin","Eldritch Moon","23",1,"emn",120485
 "741","Exultant Cultist","Eldritch Moon","59",1,"emn",120486
 "742","Faith Unbroken","Eldritch Moon","24",1,"emn",120488
 "743","Faithbearer Paladin","Eldritch Moon","25",1,"emn",120487
@@ -757,9 +757,9 @@
 "756","Give No Ground","Eldritch Moon","29",1,"emn",120498
 "757","Gnarlwood Dryad","Eldritch Moon","159",1,"emn",119678
 "758","Graf Harvest","Eldritch Moon","90",1,"emn",120499
-"759","Graf Rats","Eldritch Moon","91a/96b",1,NA,NA
+"759","Graf Rats","Eldritch Moon","91",1,"emn",119679
 "760","Grapple with the Past","Eldritch Moon","160",1,"emn",120120
-"761","Grizzled Angler","Eldritch Moon","63a/63b",1,NA,NA
+"761","Grizzled Angler","Eldritch Moon","63",1,"emn",119744
 "762","Guardian of Pilgrims","Eldritch Moon","30",1,"emn",120500
 "763","Hamlet Captain","Eldritch Moon","161",1,"emn",120501
 "764","Haunted Dead","Eldritch Moon","92",1,"emn",120006
@@ -772,18 +772,18 @@
 "771","Ironclad Slayer","Eldritch Moon","31",1,"emn",120504
 "772","Ironwright's Cleansing","Eldritch Moon","32",1,"emn",120505
 "773","It of the Horrid Swarm","Eldritch Moon","8",1,"emn",120506
-"774","Kessig Prowler","Eldritch Moon","163a/163b",1,NA,NA
+"774","Kessig Prowler","Eldritch Moon","163",1,"emn",120008
 "775","Laboratory Brute","Eldritch Moon","67",1,"emn",120507
 "776","Lashweed Lurker","Eldritch Moon","9",1,"emn",120265
 "777","Liliana's Elite","Eldritch Moon","94",1,"emn",120508
-"778","Lone Rider","Eldritch Moon","33a/33b",1,NA,NA
+"778","Lone Rider","Eldritch Moon","33",1,"emn",119746
 "779","Long Road Home","Eldritch Moon","34",1,"emn",119683
 "780","Lunar Force","Eldritch Moon","68",1,"emn",120510
 "781","Lunarch Mantle","Eldritch Moon","35",1,"emn",120509
 "782","Make Mischief","Eldritch Moon","135",1,"emn",120511
 "783","Markov Crusader","Eldritch Moon","95",1,"emn",120512
 "784","Mercurial Geists","Eldritch Moon","186",1,"emn",120267
-"785","Midnight Scavengers","Eldritch Moon","96a/96b",1,NA,NA
+"785","Midnight Scavengers","Eldritch Moon","96",1,NA,NA
 "786","Mockery of Nature","Eldritch Moon","10",1,"emn",120514
 "787","Mournwillow","Eldritch Moon","187",1,"emn",120269
 "788","Murder","Eldritch Moon","97",1,"emn",120121
@@ -807,11 +807,11 @@
 "806","Savage Alliance","Eldritch Moon","140",1,"emn",120524
 "807","Scour the Laboratory","Eldritch Moon","73",1,"emn",120525
 "808","Shreds of Sanity","Eldritch Moon","141",1,"emn",120526
-"809","Shrill Howler","Eldritch Moon","168a/168b",1,NA,NA
+"809","Shrill Howler","Eldritch Moon","168",1,"emn",120527
 "810","Sigardian Priest","Eldritch Moon","42",1,"emn",120529
 "811","Skirsdag Supplicant","Eldritch Moon","104",1,"emn",120530
 "812","Slayer's Cleaver","Eldritch Moon","198",1,"emn",120531
-"813","Smoldering Werewolf","Eldritch Moon","142a/142b",1,NA,NA
+"813","Smoldering Werewolf","Eldritch Moon","142",1,"emn",120009
 "814","Somberwald Stag","Eldritch Moon","169",1,"emn",120532
 "815","Spectral Reserves","Eldritch Moon","43",1,"emn",120533
 "816","Spontaneous Mutation","Eldritch Moon","74",1,"emn",120535
@@ -825,7 +825,7 @@
 "824","Succumb to Temptation","Eldritch Moon","107",1,"emn",120543
 "825","Swift Spinner","Eldritch Moon","173",1,"emn",120544
 "826","Take Inventory","Eldritch Moon","76",1,"emn",119747
-"827","Tangleclaw Werewolf","Eldritch Moon","174a/174b",1,NA,NA
+"827","Tangleclaw Werewolf","Eldritch Moon","174",1,"emn",120545
 "828","Tattered Haunter","Eldritch Moon","77",1,"emn",120546
 "829","Terrarion","Eldritch Moon","201",1,"emn",120547
 "830","Thermo-Alchemist","Eldritch Moon","147",1,"emn",120548
@@ -833,14 +833,14 @@
 "832","Thraben Foulbloods","Eldritch Moon","108",1,"emn",120550
 "833","Thraben Standard Bearer","Eldritch Moon","48",1,"emn",120551
 "834","Turn Aside","Eldritch Moon","78",1,"emn",120278
-"835","Ulrich of the Krallenhorde","Eldritch Moon","191a/191b",1,NA,NA
-"836","Ulvenwald Captive","Eldritch Moon","175a/175b",1,NA,NA
+"835","Ulrich of the Krallenhorde","Eldritch Moon","191",1,"emn",119477
+"836","Ulvenwald Captive","Eldritch Moon","175",1,"emn",120122
 "837","Ulvenwald Observer","Eldritch Moon","176",1,"emn",119917
 "838","Unsubstantiate","Eldritch Moon","79",1,"emn",119748
 "839","Vampire Cutthroat","Eldritch Moon","110",2,"emn",120552
 "840","Vampire Cutthroat","Eldritch Moon","110",1,"emn",120552
 "841","Vexing Scuttler","Eldritch Moon","11",1,"emn",120553
-"842","Vildin-Pack Outcast","Eldritch Moon","148a/148b",1,NA,NA
+"842","Vildin-Pack Outcast","Eldritch Moon","148",1,"emn",120012
 "843","Wailing Ghoul","Eldritch Moon","112",1,"emn",120279
 "844","Waxing Moon","Eldritch Moon","177",1,"emn",120554
 "845","Weaver of Lightning","Eldritch Moon","149",1,"emn",120555
@@ -910,14 +910,14 @@
 "909","Cryptic Serpent","Amonkhet","48",1,"akh",130043
 "910","Curator of Mysteries","Amonkhet","49",1,"akh",129821
 "911","Cursed Minotaur","Amonkhet","85",2,"akh",129521
-"912","Cut // Ribbons","Amonkhet","223a/223b",1,NA,NA
+"912","Cut // Ribbons","Amonkhet","223",1,"akh",129813
 "913","Decimator Beetle","Amonkhet","197",1,"akh",130204
 "914","Decision Paralysis","Amonkhet","50",1,"akh",129744
 "915","Deem Worthy","Amonkhet","127",1,"akh",130044
 "916","Defiant Greatmaw","Amonkhet","163",1,"akh",130205
 "917","Desert Cerodon","Amonkhet","128",1,"akh",130206
 "918","Desiccated Naga","Amonkhet","276",1,"akh",129822
-"919","Destined // Lead","Amonkhet","217a/217b",1,NA,NA
+"919","Destined // Lead","Amonkhet","217",1,"akh",129727
 "920","Devoted Crop-Mate","Amonkhet","10",1,"akh",130207
 "921","Dispossess","Amonkhet","86",1,"akh",130208
 "922","Dissenter's Deliverance","Amonkhet","164",1,"akh",129878
@@ -934,7 +934,7 @@
 "933","Essence Scatter","Amonkhet","52",1,"akh",129746
 "934","Evolving Wilds","Amonkhet","242",2,"akh",130213
 "935","Exemplar of Strength","Amonkhet","165",1,"akh",129747
-"936","Failure // Comply","Amonkhet","221a/221b",1,NA,NA
+"936","Failure // Comply","Amonkhet","221",1,"akh",129824
 "937","Faith of the Devoted","Amonkhet","90",1,"akh",130214
 "938","Fan Bearer","Amonkhet","12",1,"akh",130215
 "939","Festering Mummy","Amonkhet","91",1,"akh",130216
@@ -972,7 +972,7 @@
 "971","Haze of Pollen","Amonkhet","171",1,"akh",130231
 "972","Hazoret's Favor","Amonkhet","137",1,"akh",129880
 "973","Hazoret's Monument","Amonkhet","229",2,"akh",129748
-"974","Heaven // Earth","Amonkhet","224a/224b",1,NA,NA
+"974","Heaven // Earth","Amonkhet","224",1,"akh",130150
 "975","Heart-Piercer Manticore","Amonkhet","138",1,"akh",130305
 "976","Hekma Sentinels","Amonkhet","56",1,"akh",130232
 "977","Hieroglyphic Illumination","Amonkhet","57",1,"akh",130164
@@ -987,7 +987,7 @@
 "986","Impeccable Timing","Amonkhet","18",1,"akh",129528
 "987","In Oketra's Name","Amonkhet","19",1,"akh",129731
 "988","Initiate's Companion","Amonkhet","174",1,"akh",130238
-"989","Insult // Injury","Amonkhet","213a/213b",1,NA,NA
+"989","Insult // Injury","Amonkhet","213",1,"akh",129814
 "990","Island (258)","Amonkhet","258",1,"akh",130239
 "991","Island (251)","Amonkhet","251",1,"akh",129687
 "992","Island (259)","Amonkhet","259",1,"akh",130240
@@ -1017,13 +1017,13 @@
 "1016","Mountain (253)","Amonkhet","253",1,"akh",129688
 "1017","Mountain (265)","Amonkhet","265",1,"akh",130251
 "1018","Mountain (266)","Amonkhet","266",1,"akh",130252
-"1019","Mouth // Feed","Amonkhet","214a/214b",1,NA,NA
+"1019","Mouth // Feed","Amonkhet","214",1,"akh",129881
 "1020","Naga Oracle","Amonkhet","62",2,"akh",130253
 "1021","Naga Vitalist","Amonkhet","176",1,"akh",130254
 "1022","Nef-Crop Entangler","Amonkhet","144",2,"akh",130255
 "1023","Neheb, the Worthy","Amonkhet","203",1,"akh",130050
 "1024","Nest of Scarabs","Amonkhet","101",1,"akh",129733
-"1025","Never // Return","Amonkhet","212a/212b",1,NA,NA
+"1025","Never // Return","Amonkhet","212",1,"akh",129982
 "1026","New Perspectives","Amonkhet","63",1,"akh",129983
 "1027","Nimble-Blade Khenra","Amonkhet","145",1,"akh",129882
 "1028","Nissa, Steward of Elements","Amonkhet","204",1,"akh",130051
@@ -1031,7 +1031,7 @@
 "1030","Oketra the True","Amonkhet","21",1,"akh",130053
 "1031","Oketra's Attendant","Amonkhet","22",2,"akh",130165
 "1032","Oketra's Monument","Amonkhet","233",1,"akh",129750
-"1033","Onward // Victory","Amonkhet","218a/218b",1,NA,NA
+"1033","Onward // Victory","Amonkhet","218",1,"akh",129751
 "1034","Open into Wonder","Amonkhet","64",1,"akh",130257
 "1035","Oracle's Vault","Amonkhet","234",1,"akh",129574
 "1036","Ornery Kudu","Amonkhet","178",2,"akh",130258
@@ -1045,13 +1045,13 @@
 "1044","Plains (256)","Amonkhet","256",1,"akh",130263
 "1045","Plains (257)","Amonkhet","257",1,"akh",130264
 "1046","Pouncing Cheetah","Amonkhet","179",1,"akh",129834
-"1047","Prepare // Fight","Amonkhet","220a/220b",1,NA,NA
+"1047","Prepare // Fight","Amonkhet","220",1,"akh",129782
 "1048","Protection of the Hekma","Amonkhet","23",1,"akh",130152
 "1049","Pursue Glory","Amonkhet","147",2,"akh",130265
 "1050","Pyramid of the Pantheon","Amonkhet","235",1,"akh",130055
 "1051","Quarry Hauler","Amonkhet","181",1,"akh",130056
-"1052","Rags // Riches","Amonkhet","222a/222b",1,NA,NA
-"1053","Reduce // Rubble","Amonkhet","216a/216b",1,NA,NA
+"1052","Rags // Riches","Amonkhet","222",1,"akh",129815
+"1053","Reduce // Rubble","Amonkhet","216",1,"akh",130057
 "1054","Regal Caracal","Amonkhet","24",1,"akh",129883
 "1055","Renewed Faith","Amonkhet","25",1,"akh",129735
 "1056","Rhet-Crop Spearmaster","Amonkhet","26",1,"akh",130266
@@ -1082,8 +1082,8 @@
 "1081","Sparring Mummy","Amonkhet","29",1,"akh",130279
 "1082","Spidery Grasp","Amonkhet","188",1,"akh",129531
 "1083","Splendid Agony","Amonkhet","109",2,"akh",129755
-"1084","Spring // Mind","Amonkhet","219a/219b",1,NA,NA
-"1085","Start // Finish","Amonkhet","215a/215b",1,NA,NA
+"1084","Spring // Mind","Amonkhet","219",1,"akh",130168
+"1085","Start // Finish","Amonkhet","215",1,"akh",130280
 "1086","Stinging Shot","Amonkhet","189",1,"akh",130281
 "1087","Stir the Sands","Amonkhet","110",1,"akh",130061
 "1088","Stone Quarry","Amonkhet","274",1,"akh",129835
@@ -1147,7 +1147,7 @@
 "1146","Angel of Condemnation","Hour of Devastation","3",1,"hou",135009
 "1147","Angel of the God-Pharaoh","Hour of Devastation","4",1,"hou",134859
 "1148","Apocalypse Demon","Hour of Devastation","58",1,"hou",136669
-"1149","Appeal // Authority","Hour of Devastation","152a/152b",1,NA,NA
+"1149","Appeal // Authority","Hour of Devastation","152",1,"hou",136482
 "1150","Aven of Enduring Hope","Hour of Devastation","5",5,"hou",136670
 "1151","Aven Reedstalker","Hour of Devastation","30",1,"hou",136672
 "1152","Banewhip Punisher","Hour of Devastation","59",1,"hou",136675
@@ -1183,14 +1183,14 @@
 "1182","Doomfall","Hour of Devastation","62",3,"hou",135070
 "1183","Doomfall","Hour of Devastation","62",1,"hou",135070
 "1184","Dreamstealer","Hour of Devastation","63",1,"hou",134869
-"1185","Driven // Despair","Hour of Devastation","157a/157b",1,NA,NA
+"1185","Driven // Despair","Hour of Devastation","157",1,"hou",135011
 "1186","Dune Diviner","Hour of Devastation","114",1,"hou",136689
 "1187","Dunes of the Dead","Hour of Devastation","175",2,"hou",136783
 "1188","Dutiful Servants","Hour of Devastation","12",2,"hou",136605
 "1189","Earthshaker Khenra","Hour of Devastation","90",1,"hou",135053
 "1190","Endless Sands","Hour of Devastation","176",1,"hou",136485
 "1191","Eternal of Harsh Truths","Hour of Devastation","34",1,"hou",136606
-"1192","Farm // Market","Hour of Devastation","148a/148b",1,NA,NA
+"1192","Farm // Market","Hour of Devastation","148",1,"hou",135071
 "1193","Feral Prowler","Hour of Devastation","115",2,"hou",136690
 "1194","Fervent Paincaster","Hour of Devastation","91",1,"hou",135054
 "1195","Firebrand Archer","Hour of Devastation","92",2,"hou",136691
@@ -1207,7 +1207,7 @@
 "1206","God-Pharaoh's Gift","Hour of Devastation","161",1,"hou",135085
 "1207","Granitic Titan","Hour of Devastation","95",1,"hou",136694
 "1208","Graven Abomination","Hour of Devastation","162",2,"hou",136695
-"1209","Grind // Dust","Hour of Devastation","155a/155b",1,NA,NA
+"1209","Grind // Dust","Hour of Devastation","155",1,"hou",134871
 "1210","Grisly Survivor","Hour of Devastation","64",1,"hou",136696
 "1211","Harrier Naga","Hour of Devastation","118",1,"hou",136697
 "1212","Hashep Oasis","Hour of Devastation","177",1,"hou",135086
@@ -1229,7 +1229,7 @@
 "1228","Khenra Eternal","Hour of Devastation","66",2,"hou",134876
 "1229","Khenra Scrapper","Hour of Devastation","100",1,"hou",134877
 "1230","Kindled Fury","Hour of Devastation","101",1,"hou",136699
-"1231","Leave // Chance","Hour of Devastation","153a/153b",1,NA,NA
+"1231","Leave // Chance","Hour of Devastation","153",1,"hou",136612
 "1232","Lethal Sting","Hour of Devastation","67",4,"hou",136700
 "1233","Life Goes On","Hour of Devastation","121",1,"hou",136620
 "1234","Liliana's Defeat","Hour of Devastation","68",1,"hou",134878
@@ -1286,7 +1286,7 @@
 "1285","Steward of Solidarity","Hour of Devastation","25",1,"hou",135060
 "1286","Strategic Planning","Hour of Devastation","47",5,"hou",136617
 "1287","Striped Riverwinder","Hour of Devastation","48",2,"hou",136719
-"1288","Struggle // Survive","Hour of Devastation","151a/151b",1,NA,NA
+"1288","Struggle // Survive","Hour of Devastation","151",1,"hou",135073
 "1289","Sunscourge Champion","Hour of Devastation","26",2,"hou",136720
 "1290","Sunset Pyramid","Hour of Devastation","166",1,"hou",134890
 "1291","Supreme Will","Hour of Devastation","49",1,"hou",134891
@@ -1367,7 +1367,7 @@
 "1366","Goring Ceratops","Ixalan","13",1,"xln",141994
 "1367","Grazing Whiptail","Ixalan","190",3,"xln",145266
 "1368","Grim Captain's Call","Ixalan","108",1,"xln",145787
-"1369","Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun","Ixalan","191a/191b",1,NA,NA
+"1369","Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun","Ixalan","191",1,"xln",145267
 "1370","Headstrong Brute","Ixalan","147",2,"xln",145790
 "1371","Headwater Sentries","Ixalan","58",1,"xln",144812
 "1372","Herald of Secret Streams","Ixalan","59",1,"xln",142005
@@ -1407,7 +1407,7 @@
 "1406","Plains (260)","Ixalan","260",4,"xln",145692
 "1407","Plains (262)","Ixalan","262",4,"xln",145694
 "1408","Plains (263)","Ixalan","263",4,"xln",145696
-"1409","Primal Amulet // Primal Wellspring","Ixalan","243a/243b",1,NA,NA
+"1409","Primal Amulet // Primal Wellspring","Ixalan","243",1,"xln",144856
 "1410","Prosperous Pirates","Ixalan","69",1,"xln",144532
 "1411","Prying Blade","Ixalan","244",2,"xln",145715
 "1412","Queen's Agent","Ixalan","114",2,"xln",145796
@@ -1423,7 +1423,7 @@
 "1422","Rootbound Crag","Ixalan","256",2,"xln",142038
 "1423","Rootbound Crag","Ixalan","256",1,"xln",142038
 "1424","Sailor of Means","Ixalan","73",2,"xln",145756
-"1425","Search for Azcanta // Azcanta, the Sunken Ruin","Ixalan","74a/74b",2,NA,NA
+"1425","Search for Azcanta // Azcanta, the Sunken Ruin","Ixalan","74",2,"xln",145370
 "1426","Seekers' Squire","Ixalan","121",5,"xln",145798
 "1427","Sentinel Totem","Ixalan","245",1,"xln",144870
 "1428","Settle the Wreckage","Ixalan","34",1,"xln",141999
@@ -1478,7 +1478,7 @@
 "1477","Fanatical Firebrand","Rivals of Ixalan","101",4,"rix",155636
 "1478","Jadelight Ranger","Rivals of Ixalan","136",2,"rix",155595
 "1479","Jadelight Ranger","Rivals of Ixalan","136",1,"rix",155595
-"1480","Journey to Eternity // Atzal, Cave of Eternity","Rivals of Ixalan","160a/160b",1,NA,NA
+"1480","Journey to Eternity // Atzal, Cave of Eternity","Rivals of Ixalan","160",1,"rix",155581
 "1481","Legion Lieutenant","Rivals of Ixalan","163",4,"rix",155601
 "1482","Mist-Cloaked Herald","Rivals of Ixalan","43",4,"rix",155800
 "1483","Negate","Rivals of Ixalan","44",2,"rix",155801
@@ -1870,7 +1870,7 @@
 "1869","Dimir Locket","Guilds of Ravnica","234",4,"grn",176434
 "1870","Dimir Spybug","Guilds of Ravnica","166",4,"grn",176733
 "1871","Direct Current","Guilds of Ravnica","96",4,"grn",175190
-"1872","Discovery // Dispersal","Guilds of Ravnica","223a/223b",4,NA,NA
+"1872","Discovery // Dispersal","Guilds of Ravnica","223",4,"grn",176782
 "1873","Disdainful Stroke","Guilds of Ravnica","37",4,"grn",176441
 "1874","Disinformation Campaign","Guilds of Ravnica","167",4,"grn",176735
 "1875","District Guide","Guilds of Ravnica","128",4,"grn",176418
@@ -1880,13 +1880,13 @@
 "1879","Enhanced Surveillance","Guilds of Ravnica","40",4,"grn",176727
 "1880","Erratic Cyclops","Guilds of Ravnica","98",1,"grn",176567
 "1881","Erstwhile Trooper","Guilds of Ravnica","169",5,"grn",176861
-"1882","Expansion // Explosion","Guilds of Ravnica","224a/224b",4,NA,NA
+"1882","Expansion // Explosion","Guilds of Ravnica","224",4,"grn",176440
 "1883","Experimental Frenzy","Guilds of Ravnica","99",2,"grn",176834
 "1884","Fearless Halberdier","Guilds of Ravnica","100",4,"grn",176901
-"1885","Find // Finality","Guilds of Ravnica","225a/225b",2,NA,NA
+"1885","Find // Finality","Guilds of Ravnica","225",2,"grn",175576
 "1886","Fire Urchin","Guilds of Ravnica","101",4,"grn",176904
 "1887","Flight of Equenauts","Guilds of Ravnica","11",4,"grn",176877
-"1888","Flower // Flourish","Guilds of Ravnica","226a/226b",4,NA,NA
+"1888","Flower // Flourish","Guilds of Ravnica","226",4,"grn",176835
 "1889","Fresh-Faced Recruit","Guilds of Ravnica","216",4,"grn",175592
 "1890","Garrison Sergeant","Guilds of Ravnica","172",4,"grn",176690
 "1891","Gatekeeper Gargoyle","Guilds of Ravnica","235",4,"grn",176884
@@ -1919,9 +1919,9 @@
 "1918","Hypothesizzle","Guilds of Ravnica","178",4,"grn",175584
 "1919","Inescapable Blaze","Guilds of Ravnica","107",4,"grn",176686
 "1920","Inspiring Unicorn","Guilds of Ravnica","16",4,"grn",176880
-"1921","Integrity // Intervention","Guilds of Ravnica","227a/227b",4,NA,NA
+"1921","Integrity // Intervention","Guilds of Ravnica","227",4,"grn",176565
 "1922","Intrusive Packbeast","Guilds of Ravnica","17",4,"grn",176883
-"1923","Invert // Invent","Guilds of Ravnica","228a/228b",4,NA,NA
+"1923","Invert // Invent","Guilds of Ravnica","228",4,"grn",176560
 "1924","Ironshell Beetle","Guilds of Ravnica","134",4,"grn",176899
 "1925","Izzet Guildgate (a)","Guilds of Ravnica","251",7,"grn",176409
 "1926","Izzet Guildgate (b)","Guilds of Ravnica","252",4,"grn",176410
@@ -2002,7 +2002,7 @@
 "2001","Sonic Assault","Guilds of Ravnica","199",4,"grn",175186
 "2002","Spinal Centipede","Guilds of Ravnica","86",4,"grn",176937
 "2003","Sprouting Renewal","Guilds of Ravnica","145",4,"grn",176919
-"2004","Status // Statue","Guilds of Ravnica","230a/230b",4,NA,NA
+"2004","Status // Statue","Guilds of Ravnica","230",4,"grn",175187
 "2005","Steam Vents","Guilds of Ravnica","257",2,"grn",175202
 "2006","Street Riot","Guilds of Ravnica","117",4,"grn",176926
 "2007","Sumala Woodshaper","Guilds of Ravnica","200",4,"grn",175585
@@ -2113,7 +2113,7 @@
 "2112","Azorius Skyguard","Ravnica Allegiance","155",4,"rna",183204
 "2113","Bankrupt in Blood","Ravnica Allegiance","62",3,"rna",183057
 "2114","Basilica Bell-Haunt","Ravnica Allegiance","156",1,"rna",183035
-"2115","Bedeck // Bedazzle","Ravnica Allegiance","221a/221b",1,NA,NA
+"2115","Bedeck // Bedazzle","Ravnica Allegiance","221",1,"rna",183205
 "2116","Bedevil","Ravnica Allegiance","157",1,"rna",182230
 "2117","Benthic Biomancer","Ravnica Allegiance","32",1,"rna",183198
 "2118","Biogenic Upgrade","Ravnica Allegiance","123",3,"rna",183076
@@ -2127,7 +2127,7 @@
 "2126","Burn Bright","Ravnica Allegiance","93",1,"rna",183175
 "2127","Burning-Tree Vandal","Ravnica Allegiance","94",2,"rna",183086
 "2128","Captive Audience","Ravnica Allegiance","160",1,"rna",183314
-"2129","Carnival // Carnage","Ravnica Allegiance","222a/222b",4,NA,NA
+"2129","Carnival // Carnage","Ravnica Allegiance","222",4,"rna",183064
 "2130","Carrion Imp","Ravnica Allegiance","66",2,"rna",183411
 "2131","Catacomb Crocodile","Ravnica Allegiance","67",2,"rna",183414
 "2132","Cavalcade of Calamity","Ravnica Allegiance","95",2,"rna",183335
@@ -2139,11 +2139,11 @@
 "2138","Clear the Mind","Ravnica Allegiance","34",3,"rna",183349
 "2139","Clear the Stage","Ravnica Allegiance","68",2,"rna",183416
 "2140","Code of Constraint","Ravnica Allegiance","35",4,"rna",183353
-"2141","Collision // Colossus","Ravnica Allegiance","223a/223b",1,NA,NA
+"2141","Collision // Colossus","Ravnica Allegiance","223",1,"rna",183327
 "2142","Combine Guildmage","Ravnica Allegiance","163",2,"rna",183185
 "2143","Combine Guildmage","Ravnica Allegiance","163",1,"rna",183185
 "2144","Concordia Pegasus","Ravnica Allegiance","7",3,"rna",183362
-"2145","Consecrate // Consume","Ravnica Allegiance","224a/224b",3,NA,NA
+"2145","Consecrate // Consume","Ravnica Allegiance","224",3,"rna",183063
 "2146","Consign to the Pit","Ravnica Allegiance","69",2,"rna",183417
 "2147","Coral Commando","Ravnica Allegiance","36",2,"rna",183358
 "2148","Coral Commando","Ravnica Allegiance","36",1,"rna",183358
@@ -2153,7 +2153,7 @@
 "2152","Dead Revels","Ravnica Allegiance","71",3,"rna",183419
 "2153","Debtors' Transport","Ravnica Allegiance","72",3,"rna",183421
 "2154","Deface","Ravnica Allegiance","98",2,"rna",183386
-"2155","Depose // Deploy","Ravnica Allegiance","225a/225b",1,NA,NA
+"2155","Depose // Deploy","Ravnica Allegiance","225",1,"rna",182961
 "2156","Dovin's Acuity","Ravnica Allegiance","168",1,"rna",183207
 "2157","Drill Bit","Ravnica Allegiance","73",1,"rna",183114
 "2158","Elite Arrester","Ravnica Allegiance","266",1,"rna",183307
@@ -2206,7 +2206,7 @@
 "2205","Impassioned Orator","Ravnica Allegiance","12",1,"rna",183371
 "2206","Impassioned Orator","Ravnica Allegiance","12",1,"rna",183371
 "2207","Imperious Oligarch","Ravnica Allegiance","184",1,"rna",182206
-"2208","Incubation // Incongruity","Ravnica Allegiance","226a/226b",1,NA,NA
+"2208","Incubation // Incongruity","Ravnica Allegiance","226",1,"rna",182411
 "2209","Incubation Druid","Ravnica Allegiance","131",1,"rna",183313
 "2210","Island (261)","Ravnica Allegiance","261",1,"rna",183581
 "2211","Judith, the Scourge Diva","Ravnica Allegiance","185",3,"rna",182949
@@ -2258,9 +2258,9 @@
 "2257","Rampaging Rendhorn","Ravnica Allegiance","135",2,"rna",183423
 "2258","Ravager Wurm","Ravnica Allegiance","200",1,"rna",182959
 "2259","Regenesis","Ravnica Allegiance","136",3,"rna",183325
-"2260","Repudiate // Replicate","Ravnica Allegiance","227a/227b",1,NA,NA
+"2260","Repudiate // Replicate","Ravnica Allegiance","227",1,"rna",183336
 "2261","Resolute Watchdog","Ravnica Allegiance","19",2,"rna",183331
-"2262","Revival // Revenge","Ravnica Allegiance","228a/228b",1,NA,NA
+"2262","Revival // Revenge","Ravnica Allegiance","228",1,"rna",183218
 "2263","Rhythm of the Wild","Ravnica Allegiance","201",1,"rna",183219
 "2264","Rix Maadi Reveler","Ravnica Allegiance","109",1,"rna",182135
 "2265","Root Snare","Ravnica Allegiance","137",3,"rna",183425
@@ -2326,7 +2326,7 @@
 "2325","Theater of Horrors","Ravnica Allegiance","213",1,"rna",183173
 "2326","Thirsting Shade","Ravnica Allegiance","87",5,"rna",183434
 "2327","Thought Collapse","Ravnica Allegiance","57",1,"rna",183407
-"2328","Thrash // Threat","Ravnica Allegiance","229a/229b",1,NA,NA
+"2328","Thrash // Threat","Ravnica Allegiance","229",1,"rna",183226
 "2329","Tin Street Dodger","Ravnica Allegiance","120",2,"rna",183406
 "2330","Titanic Brawl","Ravnica Allegiance","146",1,"rna",183080
 "2331","Tithe Taker","Ravnica Allegiance","27",4,"rna",182205
