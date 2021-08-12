@@ -16,6 +16,8 @@ library(jsonlite)
 # $url = 'https://api.scryfall.com/cards/search?format=json&include_extras=false&include_multilingual=false&order=set&page=0&q=' . urlencode($query) . '%20lang=en&unique=prints';
 
 
+### PULL ALL ENGLISH
+
 end = 318
 library(jsonlite)
 
@@ -27,12 +29,39 @@ for(i in 0:end){
   pages[[i+1]] <- fullScryfall$data
 }
 
-# https://api.scryfall.com/cards/search?format=json&include_extras=false&include_multilingual=false&set=sta&order=set&page=1&q=%20lang=jp&unique=prints
+### PULL JAPANESE ARCHIVES
 
+# https://api.scryfall.com/cards/search?format=json&q=set:MRD%20lang=en&page=1
+
+end = 1
+
+baseurl <- "https://api.scryfall.com/cards/search?format=json&q=set:sta&unique=art&page="
+pagesJP <- list()
+for(i in 1:end){
+  fullScryfall <- jsonlite::fromJSON(paste0(baseurl, i), flatten=TRUE)
+  message("Pulling from Scryfall, page ", i)
+  pagesJP[[i+1]] <- fullScryfall$data
+}
+
+### PULL SAHEELI
+
+end = 1
+
+baseurl <- "https://api.scryfall.com/cards/search?format=json&q=set:pwar&unique=art&page="
+pagesJP <- list()
+for(i in 1:end){
+  fullScryfall <- jsonlite::fromJSON(paste0(baseurl, i), flatten=TRUE)
+  message("Pulling from Scryfall, page ", i)
+  pagesJP[[i+1]] <- fullScryfall$data
+}
 
 library(plyr)
-scryfallData <- rbind.fill(pages)
+scryfallDataPWAR <- rbind.fill(pagesJP)
 
-scryfallData<-data.frame(lapply(scryfallData, as.character), stringsAsFactors=FALSE)
+scryfallDataPWAR <-data.frame(lapply(scryfallDataPWAR, as.character), stringsAsFactors=FALSE)
 
-write.csv(scryfallData,"~/Documents/GitHub/mtg/fullScryfall.csv", row.names = TRUE)
+
+scryfallTest <- rbind.fill(fullScryfall, scryfallDataPWAR)
+
+
+write.csv(scryfallDataPWAR,"~/Documents/GitHub/mtg/ScryfallJPPWAR.csv", row.names = TRUE)
